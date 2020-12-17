@@ -1,0 +1,56 @@
+body {
+  background-color: #ccccff;
+}
+hr {
+  border-bottom-style: none;
+  border-color: #00004d;
+  border-top-style:dotted;
+  border-width: 5px;
+  width: 5%;
+}
+ h3 {
+   color: #003366;
+   font-size: 18px;
+   font-family: fantasy;
+ }
+ h4{
+   color: #0080ff;
+   font-family: sans-serif;
+   font-weight: bold;
+ }
+h1{
+  color:#003566;
+  font-size: 40px;
+  font-family: cursive;
+  text-decoration: underline;
+  text-shadow: 2px 2px black;
+
+}
+a {
+    color: #008000;
+    text-decoration: none;
+   }
+   a:visited {
+    color: #800080;
+   }
+   a:hover {
+    color: #800000;
+    text-decoration: underline;
+   }
+
+
+/****************************************Class Selectors****************************************/
+.h3 {
+  color:#9933ff;
+}
+
+.blh3 {
+  color: #8000ff;
+}
+.txh3 {
+  text-align: center;
+}
+.clrtd {
+    color: red;
+}
+/**************************************id***************************************************/
